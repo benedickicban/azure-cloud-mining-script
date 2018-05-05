@@ -38,5 +38,5 @@ fi
 
 echo '	
 ],
-"currency" : "monero7",
+"currency" : "sumokoin",
 '
